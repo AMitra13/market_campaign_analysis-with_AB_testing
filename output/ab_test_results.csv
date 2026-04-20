@@ -1,0 +1,7 @@
+Campaign,Control N,Treatment N,Control Mean ($),Treatment Mean ($),Lift ($),p-value,Cohen's d,Significant or Not
+Campaign 1,2071,142,546.87,1484.35,937.48,0,1.683,Yes
+Campaign 2,2183,30,597.39,1307.67,710.27,0,1.19,Yes
+Campaign 3,2050,163,598,720.54,122.54,0.0302,0.204,Yes
+Campaign 4,2049,164,564.56,1137.56,573,0,0.982,Yes
+Campaign 5,2052,161,527.94,1614.96,1087.02,0,2.042,Yes
+Last Campaign,1880,333,539.95,985.66,445.71,0,0.767,Yes
