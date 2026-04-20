@@ -11,7 +11,7 @@ A end-to-end marketing analytics project using Python to evaluate campaign ROI, 
 marketing-campaign-analysis/
 │
 ├── Market_Campaign_Analysis.ipynb   # Main analysis notebook
-├── marketing_campaign.csv           # Raw dataset (add manually — see below)
+├── marketing_campaign.csv           # Raw dataset
 ├── requirements.txt                 # Python dependencies
 ├── output/
 │   ├── marketing_dashboard_dataset.csv   # Enriched dataset for Power BI / dashboards
