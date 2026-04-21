@@ -150,7 +150,7 @@ Run all cells top to bottom. Outputs will be saved to the `output/` folder.
 
 ## Dashboard Preview
 
-![Marketing Campaign Dashboard](dashboard/Market Campaign Analytics Dashboard.JPG)
+![Marketing Campaign Dashboard](dashboard/Market_Campaign_Analytics_Dashboard.jpg)
 
 ---
 
