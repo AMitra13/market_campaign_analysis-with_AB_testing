@@ -17,7 +17,7 @@ marketing-campaign-analysis/
 │   ├── marketing_dashboard_dataset.csv   # Enriched dataset for Power BI/dashboards
 │   └── ab_test_results.csv               # A/B test results table
 ├── dashboard/
-|   ├── Market Campaign Analytics Dashboard.JPG  #Power BI dashboard preview
+|   ├── dashboard.JPG                # Power BI dashboard preview
 └── README.md
 ```
 
@@ -150,7 +150,7 @@ Run all cells top to bottom. Outputs will be saved to the `output/` folder.
 
 ## Dashboard Preview
 
-![Marketing Campaign Dashboard](dashboard)
+![Marketing Campaign Dashboard](dashboard/dashboard.JPG)
 
 ---
 
