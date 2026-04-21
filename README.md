@@ -14,8 +14,10 @@ marketing-campaign-analysis/
 ├── marketing_campaign.csv           # Raw dataset
 ├── requirements.txt                 # Python dependencies
 ├── output/
-│   ├── marketing_dashboard_dataset.csv   # Enriched dataset for Power BI / dashboards
+│   ├── marketing_dashboard_dataset.csv   # Enriched dataset for Power BI/dashboards
 │   └── ab_test_results.csv               # A/B test results table
+├── dashboard/
+|   ├── Market Campaign Analytics Dashboard.JPG  #Power BI dashboard preview
 └── README.md
 ```
 
@@ -143,6 +145,12 @@ Run all cells top to bottom. Outputs will be saved to the `output/` folder.
 |------|-------------|
 | `output/marketing_dashboard_dataset.csv` | Enriched customer dataset with all engineered features — ready for Power BI or Tableau |
 | `output/ab_test_results.csv` | A/B test results table with p-values, lift, and Cohen's d per campaign |
+
+---
+
+## Dashboard Preview
+
+![Marketing Campaign Dashboard](dashboard/Market Campaign Analytics Dashboard.JPG)
 
 ---
 
