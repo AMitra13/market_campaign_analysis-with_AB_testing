@@ -17,7 +17,7 @@ marketing-campaign-analysis/
 │   ├── marketing_dashboard_dataset.csv   # Enriched dataset for Power BI/dashboards
 │   └── ab_test_results.csv               # A/B test results table
 ├── dashboard/
-|   ├── dashboard.JPG                # Power BI dashboard preview
+|   ├── dashboard.png                # Power BI dashboard preview
 └── README.md
 ```
 
